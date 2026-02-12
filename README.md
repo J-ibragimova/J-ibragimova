@@ -1,16 +1,20 @@
-## Hi there 👋
+**QA Engineer — Юлия Ибрагимова**
 
-<!--
-**J-ibragimova/J-ibragimova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+_О себе_:из науки (правовое регулирование цифровых технологий) в тестирование: навык выявления нестыковок стал ключевым в QA
 
-Here are some ideas to get you started:
+_Деятельность_:\
+· Ручное тестирование\
+· Освоение автоматизации\
+· Применение ИИ для тестовой документации
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+_Tech stack_:\
+Java, SQL/PostgreSQL, REST API, Postman, Git/GitHub
+
+_Инструменты_:\
+Charles, Android Studio, Figma, Swagger
+
+_Контакт_:\
+Telegram: @IbragimovaJulia
+
+
+
