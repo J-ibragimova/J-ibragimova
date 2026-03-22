@@ -8,7 +8,7 @@ _Деятельность_:\
 · Применение ИИ для тестовой документации
 
 _Tech stack_:\
-Java, SQL/PostgreSQL, REST API, Postman, Git/GitHub
+Kotlin, Python, SQL/PostgreSQL, REST API, Postman, Git/GitHub
 
 _Инструменты_:\
 Charles, Android Studio, Figma, Swagger
